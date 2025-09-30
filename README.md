@@ -1,4 +1,4 @@
-# TFG - Optimización de Large Language Models con LoRA
+# TFG - Optimización de Large Language Models para la realización de tareas con LoRA
 
 Este repositorio contiene mi Trabajo de Fin de Grado (TFG) para el Grado en Matemáticas en la Universidad de Alicante.  
 El proyecto explora la **optimización de Large Language Models (LLMs)** mediante la técnica **LoRA (Low-Rank Adaptation)**, comparando su eficiencia y adaptabilidad frente a modelos de Machine Learning tradicionales en tareas de predicción.
@@ -11,7 +11,9 @@ El proyecto explora la **optimización de Large Language Models (LLMs)** mediant
 - **Generar Archivos .txt.ipynb** → Notebook para generar archivos `.txt` a partir del Excel, necesarios para subir los datos a Google Colab y trabajar con el LLM y LoRA.  
 - **Gráficas y Ejemplos.ipynb** → Notebook con gráficas y ejemplos visuales incluidos en la memoria del TFG.  
 - **LLM_y_LoRA.ipynb** → Implementación del modelo LLM y su adaptación mediante LoRA: configuración, entrenamiento y evaluación.  
-- **Modelos Clásicos de Machine Learning.ipynb** → Implementación de modelos de Machine Learning tradicionales (Regresión Logística, Árboles de Decisión, Random Forest, XGBoost y Redes Neuronales).  
+- **Modelos Clásicos de Machine Learning.ipynb** → Implementación de modelos de Machine Learning tradicionales (Regresión Logística, Árboles de Decisión, Random Forest, XGBoost y Redes Neuronales).
+- **Optimización de Large Language Models para la realización de tareas.pdf** → Documento PDF del TFG.
+- **Presentación TFG.pdf** → Presentación que utilicé el día de la defensa de mi TFG.
 - **README.md** → Este archivo.
 
 ---
