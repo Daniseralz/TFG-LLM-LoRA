@@ -13,7 +13,7 @@ El proyecto explora la **optimización de Large Language Models (LLMs)** mediant
 - **LLM_y_LoRA.ipynb** → Implementación del modelo LLM y su adaptación mediante LoRA: configuración, entrenamiento y evaluación.  
 - **Modelos Clásicos de Machine Learning.ipynb** → Implementación de modelos de Machine Learning tradicionales (Regresión Logística, Árboles de Decisión, Random Forest, XGBoost y Redes Neuronales).
 - **Optimización de Large Language Models para la realización de tareas.pdf** → Documento PDF del TFG.
-- **Presentación TFG.pdf** → Presentación que utilicé el día de la defensa de mi TFG.
+- **Presentación TFG.pdf** → Presentación utilizada el día de la defensa del TFG.
 - **README.md** → Este archivo.
 
 ---
